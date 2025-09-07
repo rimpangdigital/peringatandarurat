@@ -1,8 +1,8 @@
 {
- "display": "fullscreen",
- "background_color": "#FF6699",
  "start_url": "index.htm?installed=true",
  "theme_color": "#FF6699",
+ "display": "fullscreen",
+ "background_color": "#FF6699",
  "name": "reset",
  "icons": [
   {
