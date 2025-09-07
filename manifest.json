@@ -1,9 +1,8 @@
 {
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "name": "reset",
- "theme_color": "#FF6699",
  "background_color": "#FF6699",
+ "theme_color": "#FF6699",
+ "name": "reset",
  "icons": [
   {
    "src": "misc/icon150.png",
@@ -40,5 +39,6 @@
    "type": "image/png",
    "sizes": "64x64"
   }
- ]
+ ],
+ "start_url": "index.htm?installed=true"
 }
